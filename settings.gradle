@@ -1,0 +1,3 @@
+rootProject.name = 'maiden'
+include 'parent'
+
